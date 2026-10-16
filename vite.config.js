@@ -3,7 +3,8 @@ import { resolve } from 'path';
 
 export default defineConfig({
   // Establece la carpeta src como la raíz del proyecto para Vite
-  root: resolve(__dirname, 'src'),
+  // root: resolve(__dirname, 'src'),
+  base: './',
   
   // Configura la carpeta de salida para que compile fuera de src, en la raíz general
   build: {
