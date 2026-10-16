@@ -1,0 +1,1 @@
+import{t as e}from"./property-DXxEPfd9.js";function t(t){return e({...t,state:!0,attribute:!1})}export{t};

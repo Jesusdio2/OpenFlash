@@ -1,0 +1,1 @@
+function e(e,t){window.__swc,customElements.define(e,t)}export{e as t};

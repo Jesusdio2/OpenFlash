@@ -1,0 +1,1 @@
+import{a as e}from"./property-DXxEPfd9.js";var t=t=>t??e;export{t};

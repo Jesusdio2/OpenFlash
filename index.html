@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenFlash - A new age for animation</title>
+    
+    <!-- Enlace para el Favicon usando tu archivo logo.png -->
+    <link rel="icon" type="image/png" href="/assets/logo-B2MgUxuT.png" />
+
+    <style>body,html{background-color:#1e1e1e;height:100%;margin:0;padding:0;overflow:hidden}sp-theme{background-color:var(--spectrum-background-layer-1);width:100%;height:100%;color:var(--spectrum-neutral-content-color-default);font-family:var(--spectrum-global-font-family,sans-serif);flex-direction:column;display:flex}.app-menu-bar{border-bottom:1px solid var(--spectrum-gray-300);user-select:none;align-items:center;gap:4px;height:32px;padding:4px 12px;display:flex}.app-logo-container{cursor:pointer;align-items:center;margin-right:12px;display:flex}.app-logo-img{object-fit:contain;width:auto;height:24px}.view-container{flex:1;height:calc(100% - 40px);display:flex;position:relative}.view-home{width:100%;height:100%;display:flex}.sidebar{border-right:1px solid var(--spectrum-gray-300);flex-direction:column;gap:16px;width:200px;padding:24px 12px;display:flex}.workspace-welcome{flex-direction:column;flex:1;gap:32px;padding:40px;display:flex;overflow-y:auto}.creation-grid{flex-wrap:wrap;gap:16px;margin-top:16px;display:flex}.template-card{cursor:pointer;width:140px}.view-editor{flex-direction:column;width:100%;height:100%;display:none}.editor-middle{flex:1;height:70%;display:flex}.toolbar-left{border-right:1px solid var(--spectrum-gray-300);flex-direction:column;align-items:center;gap:8px;width:48px;padding:12px 0;display:flex}.stage-container{background-color:var(--spectrum-gray-200);flex:1;justify-content:center;align-items:center;display:flex;overflow:auto}.flash-stage{background-color:#fff;width:640px;height:360px;transition:all .3s;box-shadow:0 4px 12px #00000080}.timeline-bottom{border-top:1px solid var(--spectrum-gray-300);box-sizing:border-box;background-color:var(--spectrum-background-layer-1);height:180px;padding:12px}.hidden{display:none!important}</style>
+  <script type="module" crossorigin src="/assets/index-fdXAPD9U.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-hePW80VL.js">
+  <link rel="modulepreload" crossorigin href="/assets/define-element-BlONwTYC.js">
+  <link rel="modulepreload" crossorigin href="/assets/property-DXxEPfd9.js">
+  <link rel="modulepreload" crossorigin href="/assets/state-DXL82k0W.js">
+  <link rel="modulepreload" crossorigin href="/assets/query-Df4-SAIv.js">
+  <link rel="modulepreload" crossorigin href="/assets/if-defined-7GbZcoUh.js">
+  <link rel="modulepreload" crossorigin href="/assets/random-id-D1ykwVcQ.js">
+  <link rel="modulepreload" crossorigin href="/assets/preload-helper-BLdHbfdN.js">
+  <link rel="modulepreload" crossorigin href="/assets/focusable-selectors-CbRTteoW.js">
+  <link rel="modulepreload" crossorigin href="/assets/first-focusable-in-HCIc6lth.js">
+  <link rel="modulepreload" crossorigin href="/assets/platform-CnG_fpkF.js">
+  <link rel="modulepreload" crossorigin href="/assets/Overlay-Cn3LSFiD.js">
+  <link rel="modulepreload" crossorigin href="/assets/LanguageResolution-QQ1vvGrv.js">
+  <link rel="modulepreload" crossorigin href="/assets/sp-icon-alert-It4hWdiJ.js">
+</head>
+<body>
+
+    <sp-theme system="spectrum" theme="spectrum" color="dark" scale="medium">
+        
+        <!-- BARRA DE MENÚS (Siempre visible) -->
+        <header class="app-menu-bar">
+            <!-- Insertamos tu logotipo de OpenFlash directamente -->
+            <div class="app-logo-container" id="logo-home">
+                <img src="/assets/logo-B2MgUxuT.png" alt="OpenFlash" class="app-logo-img" />
+            </div>
+            
+            <sp-action-button quiet>File</sp-action-button>
+            <sp-action-button quiet>Edit</sp-action-button>
+            <sp-action-button quiet>View</sp-action-button>
+            <sp-action-button quiet>Insert</sp-action-button>
+            <sp-action-button quiet>Modify</sp-action-button>
+            <sp-action-button quiet>Help</sp-action-button>
+        </header>
+
+        <div class="view-container">
+            
+            <!-- PANTALLA DE BIENVENIDA -->
+            <div id="panel-home" class="view-home">
+                <nav class="sidebar">
+                    <sp-sidenav variant="multilevel">
+                        <sp-sidenav-item label="Home" selected></sp-sidenav-item>
+                        <sp-sidenav-item label="Learn"></sp-sidenav-item>
+                    </sp-sidenav>
+                    <sp-button id="btn-create" variant="secondary" treatment="outline">Create new</sp-button>
+                    
+                    <sp-button id="btn-open" variant="secondary" treatment="outline">Open</sp-button>
+                    
+                    <input type="file" id="file-selector" accept=".fla,.swf,.json,.txt" style="display: none;" />
+                </nav>
+
+                <main class="workspace-welcome">
+                    <section>
+                        <h1 style="font-weight: 300; margin: 0 0 8px 0;">Welcome to OpenFlash</h1>
+                        <p style="color: var(--spectrum-neutral-content-color-subdued); margin: 0;">Select a template or open an existing animation to start.</p>
+                        
+                        <div class="creation-grid">
+                            <sp-card class="template-card" heading="Full HD" subheading="1920 x 1080">
+                                <div slot="footer">FLA Document</div>
+                            </sp-card>
+                            <sp-card class="template-card" heading="Square" subheading="1080 x 1080">
+                                <div slot="footer">Social Media</div>
+                            </sp-card>
+                        </div>
+                    </section>
+                </main>
+            </div>
+
+            <!-- ENTORNO DEL EDITOR DE ANIMACIÓN -->
+            <div id="panel-editor" class="view-editor">
+                <div class="editor-middle">
+                    
+                    <aside class="toolbar-left">
+                        <sp-action-button quiet selected><sp-icon-select-galley slot="icon"></sp-icon-select-galley></sp-action-button>
+                        <sp-action-button quiet><sp-icon-draw slot="icon"></sp-icon-draw></sp-action-button>
+                        <sp-action-button quiet><sp-icon-brush slot="icon"></sp-icon-brush></sp-action-button>
+                        <sp-action-button quiet><sp-icon-erase slot="icon"></sp-icon-erase></sp-action-button>
+                    </aside>
+
+                    <div class="stage-container">
+                        <div id="editor-stage" class="flash-stage"></div>
+                    </div>
+
+                </div>
+
+                <footer class="timeline-bottom">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                        <span id="timeline-title" style="font-size: 12px; font-weight: bold; letter-spacing: 0.5px;">TIMELINE</span>
+                        <sp-status-light id="layer-status" variant="positive">Layer 1</sp-status-light>
+                    </div>
+                    <sp-divider size="s" style="margin-bottom: 12px;"></sp-divider>
+                    <div style="display: flex; gap: 8px; align-items: center;">
+                        <sp-action-button quiet size="s">👁️</sp-action-button>
+                        <sp-action-button quiet size="s">🔒</sp-action-button>
+                        <span style="font-size: 13px; min-width: 80px;">Layer_1</span>
+                        <div style="display: flex; gap: 2px;">
+                            <div style="width: 16px; height: 16px; background-color: var(--spectrum-gray-400); border: 1px solid var(--spectrum-gray-500); border-radius: 2px;"></div>
+                            <div style="width: 16px; height: 16px; background-color: var(--spectrum-gray-300); border: 1px solid var(--spectrum-gray-500); border-radius: 2px;"></div>
+                            <div style="width: 16px; height: 16px; background-color: var(--spectrum-gray-300); border: 1px solid var(--spectrum-gray-500); border-radius: 2px;"></div>
+                            <div style="width: 16px; height: 16px; background-color: var(--spectrum-gray-300); border: 1px solid var(--spectrum-gray-500); border-radius: 2px;"></div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+
+        </div>
+
+    </sp-theme>
+
+</body>
+</html>
