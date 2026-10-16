@@ -1,0 +1,44 @@
+name: Deploy Node.js App to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Cambia a master si tu rama principal se llama así
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18 # Cambia a la versión de Node que use tu app
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Start Node.js Server in Background
+        run: |
+          npm start & 
+          echo "Esperando a que el servidor local encienda..."
+          sleep 5 # Le da 5 segundos al servidor para arrancar
+
+      - name: Generate Static HTML
+        run: |
+          npm install -g scrape-local
+          scrape-local -u http://localhost:3000 -d ./public
+        # NOTA: Asegúrate de que tu app use el puerto 3000, si usa otro (ej. 5000 o 8080) cámbialo arriba.
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: ./public # La carpeta con el HTML estático generado
+          branch: gh-pages # GitHub Pages leerá el sitio desde esta rama
