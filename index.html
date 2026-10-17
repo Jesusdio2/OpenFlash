@@ -7,9 +7,11 @@
     
     <!-- Enlace para el Favicon usando tu archivo logo.png -->
     <link rel="icon" type="image/png" href="./assets/logo-B2MgUxuT.png" />
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#7f7f7f">
 
     <style>body,html{background-color:#1e1e1e;height:100%;margin:0;padding:0;overflow:hidden}sp-theme{background-color:var(--spectrum-background-layer-1);width:100%;height:100%;color:var(--spectrum-neutral-content-color-default);font-family:var(--spectrum-global-font-family,sans-serif);flex-direction:column;display:flex}.app-menu-bar{border-bottom:1px solid var(--spectrum-gray-300);user-select:none;align-items:center;gap:4px;height:32px;padding:4px 12px;display:flex}.app-logo-container{cursor:pointer;align-items:center;margin-right:12px;display:flex}.app-logo-img{object-fit:contain;width:auto;height:24px}.view-container{flex:1;height:calc(100% - 40px);display:flex;position:relative}.view-home{width:100%;height:100%;display:flex}.sidebar{border-right:1px solid var(--spectrum-gray-300);flex-direction:column;gap:16px;width:200px;padding:24px 12px;display:flex}.workspace-welcome{flex-direction:column;flex:1;gap:32px;padding:40px;display:flex;overflow-y:auto}.creation-grid{flex-wrap:wrap;gap:16px;margin-top:16px;display:flex}.template-card{cursor:pointer;width:140px}.view-editor{flex-direction:column;width:100%;height:100%;display:none}.editor-middle{flex:1;height:70%;display:flex}.toolbar-left{border-right:1px solid var(--spectrum-gray-300);flex-direction:column;align-items:center;gap:8px;width:48px;padding:12px 0;display:flex}.stage-container{background-color:var(--spectrum-gray-200);flex:1;justify-content:center;align-items:center;display:flex;overflow:auto}.flash-stage{background-color:#fff;width:640px;height:360px;transition:all .3s;box-shadow:0 4px 12px #00000080}.timeline-bottom{border-top:1px solid var(--spectrum-gray-300);box-sizing:border-box;background-color:var(--spectrum-background-layer-1);height:180px;padding:12px}.hidden{display:none!important}</style>
-  <script type="module" crossorigin src="./assets/index-ChguOMCJ.js"></script>
+  <script type="module" crossorigin src="./assets/index-BOE4OHRM.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-hePW80VL.js">
   <link rel="modulepreload" crossorigin href="./assets/define-element-BlONwTYC.js">
   <link rel="modulepreload" crossorigin href="./assets/property-DXxEPfd9.js">
@@ -21,7 +23,7 @@
   <link rel="modulepreload" crossorigin href="./assets/focusable-selectors-CbRTteoW.js">
   <link rel="modulepreload" crossorigin href="./assets/first-focusable-in-HCIc6lth.js">
   <link rel="modulepreload" crossorigin href="./assets/platform-CnG_fpkF.js">
-  <link rel="modulepreload" crossorigin href="./assets/Overlay-ugc6s7Rt.js">
+  <link rel="modulepreload" crossorigin href="./assets/Overlay-BfubA_1r.js">
   <link rel="modulepreload" crossorigin href="./assets/LanguageResolution-QQ1vvGrv.js">
   <link rel="modulepreload" crossorigin href="./assets/sp-icon-alert-vIxlCN1K.js">
 </head>
@@ -118,5 +120,14 @@
 
     </sp-theme>
 
+    <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+          .then(reg => console.log('Service Worker registrado con éxito:', reg.scope))
+          .catch(err => console.error('Error al registrar el Service Worker:', err));
+      });
+    }
+  </script>
 </body>
 </html>
