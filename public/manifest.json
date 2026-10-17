@@ -1,0 +1,32 @@
+{
+  "name": "OpenFlash",
+  "short_name": "OpenFlash",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7f7f7f",
+  "theme_color": "#7f7f7f",
+  "orientation": "landscape-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "1920x1920",
+      "type": "image/png"
+    }
+  ],
+  "file_handlers": [
+    {
+      "action": "/",
+      "name": "Documento de animación OpenFlash",
+      "accept": {
+        "application/x-flash-animation": [".fla"]
+      },
+      "icons": [
+        {
+          "src": "/fla-icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

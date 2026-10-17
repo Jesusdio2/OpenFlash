@@ -72,4 +72,19 @@ document.addEventListener('DOMContentLoaded', () => {
             fileSelector.value = '';
         });
     }
+
+    // Soporte para File Handling API (PWA abrir archivos externos)
+    if ('launchQueue' in window && 'files' in LaunchParams.prototype) {
+        window.launchQueue.setConsumer(async (launchParams) => {
+            if (!launchParams.files.length) return;
+
+            for (const fileHandle of launchParams.files) {
+              const file = await fileHandle.getFile();
+            console.log(`Archivo abierto desde el sistema: ${file.name}`);
+            
+            // Llamamos a tu función para abrir el editor con el archivo cargado
+            openEditor(640, 360, file.name);
+            }
+        });
+    }
 });
