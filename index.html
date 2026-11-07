@@ -5,45 +5,286 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OpenFlash - A new age for animation</title>
     
-    <!-- Enlace para el Favicon usando tu archivo logo.png -->
     <link rel="icon" type="image/png" href="./assets/logo-B2MgUxuT.png" />
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#7f7f7f">
 
-    <style>body,html{background-color:#1e1e1e;height:100%;margin:0;padding:0;overflow:hidden}sp-theme{background-color:var(--spectrum-background-layer-1);width:100%;height:100%;color:var(--spectrum-neutral-content-color-default);font-family:var(--spectrum-global-font-family,sans-serif);flex-direction:column;display:flex}.app-menu-bar{border-bottom:1px solid var(--spectrum-gray-300);user-select:none;align-items:center;gap:4px;height:32px;padding:4px 12px;display:flex}.app-logo-container{cursor:pointer;align-items:center;margin-right:12px;display:flex}.app-logo-img{object-fit:contain;width:auto;height:24px}.view-container{flex:1;height:calc(100% - 40px);display:flex;position:relative}.view-home{width:100%;height:100%;display:flex}.sidebar{border-right:1px solid var(--spectrum-gray-300);flex-direction:column;gap:16px;width:200px;padding:24px 12px;display:flex}.workspace-welcome{flex-direction:column;flex:1;gap:32px;padding:40px;display:flex;overflow-y:auto}.creation-grid{flex-wrap:wrap;gap:16px;margin-top:16px;display:flex}.template-card{cursor:pointer;width:140px}.view-editor{flex-direction:column;width:100%;height:100%;display:none}.editor-middle{flex:1;height:70%;display:flex}.toolbar-left{border-right:1px solid var(--spectrum-gray-300);flex-direction:column;align-items:center;gap:8px;width:48px;padding:12px 0;display:flex}.stage-container{background-color:var(--spectrum-gray-200);flex:1;justify-content:center;align-items:center;display:flex;overflow:auto}.flash-stage{background-color:#fff;width:640px;height:360px;transition:all .3s;box-shadow:0 4px 12px #00000080}.timeline-bottom{border-top:1px solid var(--spectrum-gray-300);box-sizing:border-box;background-color:var(--spectrum-background-layer-1);height:180px;padding:12px}.hidden{display:none!important}</style>
-  <script type="module" crossorigin src="./assets/index-BOE4OHRM.js"></script>
-  <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-hePW80VL.js">
-  <link rel="modulepreload" crossorigin href="./assets/define-element-BlONwTYC.js">
-  <link rel="modulepreload" crossorigin href="./assets/property-DXxEPfd9.js">
-  <link rel="modulepreload" crossorigin href="./assets/state-DXL82k0W.js">
-  <link rel="modulepreload" crossorigin href="./assets/query-Df4-SAIv.js">
-  <link rel="modulepreload" crossorigin href="./assets/if-defined-7GbZcoUh.js">
-  <link rel="modulepreload" crossorigin href="./assets/random-id-D1ykwVcQ.js">
-  <link rel="modulepreload" crossorigin href="./assets/preload-helper-CRzLMJPS.js">
-  <link rel="modulepreload" crossorigin href="./assets/focusable-selectors-CbRTteoW.js">
-  <link rel="modulepreload" crossorigin href="./assets/first-focusable-in-HCIc6lth.js">
-  <link rel="modulepreload" crossorigin href="./assets/platform-CnG_fpkF.js">
-  <link rel="modulepreload" crossorigin href="./assets/Overlay-BfubA_1r.js">
-  <link rel="modulepreload" crossorigin href="./assets/LanguageResolution-QQ1vvGrv.js">
-  <link rel="modulepreload" crossorigin href="./assets/sp-icon-alert-vIxlCN1K.js">
+    <!-- Estilos generales de la interfaz basada en Adobe Spectrum -->
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            background-color: #1e1e1e;
+        }
+
+        sp-theme {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+            background-color: var(--spectrum-background-layer-1);
+            color: var(--spectrum-neutral-content-color-default);
+            font-family: var(--spectrum-global-font-family, sans-serif);
+        }
+
+        .app-menu-bar {
+            display: flex;
+            align-items: center;
+            padding: 4px 12px;
+            border-bottom: 1px solid var(--spectrum-gray-300);
+            gap: 4px;
+            user-select: none;
+            height: 32px;
+            position: relative;
+        }
+
+        .app-logo-container {
+            display: flex;
+            align-items: center;
+            margin-right: 12px;
+            cursor: pointer;
+        }
+
+        .app-logo-img {
+            height: 24px;
+            width: auto;
+            object-fit: contain;
+        }
+
+        .view-container {
+            flex: 1;
+            display: flex;
+            height: calc(100% - 40px);
+            position: relative;
+        }
+
+        .view-home {
+            display: flex;
+            width: 100%;
+            height: 100%;
+        }
+
+        .sidebar {
+            width: 200px;
+            border-right: 1px solid var(--spectrum-gray-300);
+            padding: 24px 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .workspace-welcome {
+            flex: 1;
+            padding: 40px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+        }
+
+        .creation-grid {
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            margin-top: 16px;
+        }
+
+        .template-card {
+            width: 140px;
+            cursor: pointer;
+        }
+
+        .view-editor {
+            display: none; 
+            width: 100%;
+            height: 100%;
+            flex-direction: column;
+        }
+
+        .editor-middle {
+            display: flex;
+            flex: 1;
+            height: 70%; 
+        }
+
+        .toolbar-left {
+            width: 48px;
+            border-right: 1px solid var(--spectrum-gray-300);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 12px 0;
+            gap: 8px;
+        }
+
+        .stage-container {
+            flex: 1;
+            background-color: var(--spectrum-gray-200); 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: auto;
+        }
+
+        .flash-stage {
+            background-color: #ffffff;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            width: 640px;  
+            height: 360px;
+            touch-action: none;
+            transition: all 0.3s ease;
+        }
+
+        .timeline-bottom {
+            height: 180px;
+            border-top: 1px solid var(--spectrum-gray-300);
+            padding: 12px;
+            box-sizing: border-box;
+            background-color: var(--spectrum-background-layer-1);
+        }
+
+        sp-popover {
+            position: fixed;
+            z-index: 9999;
+            display: none;
+        }
+
+        sp-popover[open] {
+            display: block !important;
+        }
+
+        /* ESTILOS DE VENTANA FLOTANTE TIPO ESCRITORIO (ADOBE STYLE) */
+        .desktop-window {
+            position: fixed;
+            top: 20%;
+            left: 35%;
+            width: 420px;
+            background-color: #2b2b2b;
+            border: 1px solid #444;
+            border-radius: 4px;
+            box-shadow: 0 12px 32px rgba(0, 0, 0, 0.7);
+            z-index: 10000;
+            display: flex;
+            flex-direction: column;
+            user-select: none;
+            font-family: var(--spectrum-global-font-family, sans-serif);
+            color: #e0e0e0;
+        }
+
+        .window-titlebar {
+            background-color: #212121;
+            padding: 8px 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #333;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: move;
+            border-top-left-radius: 4px;
+            border-top-right-radius: 4px;
+        }
+
+        .window-close-btn {
+            cursor: pointer;
+            color: #aaa;
+            font-size: 14px;
+            padding: 0 4px;
+        }
+
+        .window-close-btn:hover {
+            color: #fff;
+            background-color: #e81123;
+            border-radius: 2px;
+        }
+
+        .window-body {
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            font-size: 13px;
+        }
+
+        .window-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .window-row label {
+            width: 70px;
+            color: #ccc;
+        }
+
+        .window-row-folder {
+            display: flex;
+            gap: 12px;
+            font-size: 12px;
+            margin-top: 4px;
+        }
+
+        .folder-label {
+            color: #aaa;
+            width: 70px;
+        }
+
+        .folder-value {
+            color: #378ef0;
+            cursor: pointer;
+        }
+
+        .window-row-advanced {
+            font-size: 12px;
+            color: #aaa;
+            margin-top: 4px;
+            cursor: pointer;
+        }
+
+        .window-footer {
+            padding: 12px 16px;
+            background-color: #252525;
+            display: flex;
+            justify-content: flex-end;
+            gap: 8px;
+            border-bottom-left-radius: 4px;
+            border-bottom-right-radius: 4px;
+            border-top: 1px solid #333;
+        }
+    </style>
+  <script type="module" crossorigin src="./assets/index-DPPrZAGR.js"></script>
 </head>
 <body>
 
     <sp-theme system="spectrum" theme="spectrum" color="dark" scale="medium">
         
-        <!-- BARRA DE MENÚS (Siempre visible) -->
+        <!-- BARRA SUPERIOR DE MENÚS -->
         <header class="app-menu-bar">
-            <!-- Insertamos tu logotipo de OpenFlash directamente -->
             <div class="app-logo-container" id="logo-home">
                 <img src="./assets/logo-B2MgUxuT.png" alt="OpenFlash" class="app-logo-img" />
             </div>
             
-            <sp-action-button quiet>File</sp-action-button>
-            <sp-action-button quiet>Edit</sp-action-button>
-            <sp-action-button quiet>View</sp-action-button>
-            <sp-action-button quiet>Insert</sp-action-button>
-            <sp-action-button quiet>Modify</sp-action-button>
-            <sp-action-button quiet>Help</sp-action-button>
+            <sp-action-button quiet id="menu-btn-file">File</sp-action-button>
+            <sp-action-button quiet id="menu-btn-edit">Edit</sp-action-button>
+            <sp-action-button quiet id="menu-btn-view">View</sp-action-button>
+            
+            <!-- MENÚ INSERT -->
+            <div style="position: relative;">
+                <sp-action-button quiet id="menu-btn-insert">Insert</sp-action-button>
+                <sp-popover id="dropdown-insert">
+                    <sp-menu>
+                        <sp-menu-item id="btn-menu-new-symbol">
+                            New Symbol...
+                            <span slot="value">Ctrl+F8</span>
+                        </sp-menu-item>
+                    </sp-menu>
+                </sp-popover>
+            </div>
+
+            <sp-action-button quiet id="menu-btn-modify">Modify</sp-action-button>
+            <sp-action-button quiet id="menu-btn-help">Help</sp-action-button>
         </header>
 
         <div class="view-container">
@@ -56,10 +297,9 @@
                         <sp-sidenav-item label="Learn"></sp-sidenav-item>
                     </sp-sidenav>
                     <sp-button id="btn-create" variant="secondary" treatment="outline">Create new</sp-button>
-                    
                     <sp-button id="btn-open" variant="secondary" treatment="outline">Open</sp-button>
-                    
-                    <input type="file" id="file-selector" accept=".fla,.swf,.json,.txt" style="display: none;" />
+                    <!-- Input de archivos oculto para admitir .fla, .zip y .xfl -->
+                    <input type="file" id="file-selector" accept=".fla,.zip,.xfl,.swf,.json,.txt" style="display: none;" />
                 </nav>
 
                 <main class="workspace-welcome">
@@ -84,14 +324,14 @@
                 <div class="editor-middle">
                     
                     <aside class="toolbar-left">
-                        <sp-action-button quiet selected><sp-icon-select-galley slot="icon"></sp-icon-select-galley></sp-action-button>
-                        <sp-action-button quiet><sp-icon-draw slot="icon"></sp-icon-draw></sp-action-button>
-                        <sp-action-button quiet><sp-icon-brush slot="icon"></sp-icon-brush></sp-action-button>
-                        <sp-action-button quiet><sp-icon-erase slot="icon"></sp-icon-erase></sp-action-button>
+                        <sp-action-button id="tool-select" quiet selected title="Select">🔲</sp-action-button>
+                        <sp-action-button id="tool-draw" quiet title="Draw (Lápiz)">✏️</sp-action-button>
+                        <sp-action-button id="tool-brush" quiet title="Brush (Pincel)">🖌️</sp-action-button>
+                        <sp-action-button id="tool-erase" quiet title="Erase (Borrador)">🧹</sp-action-button>
                     </aside>
 
                     <div class="stage-container">
-                        <div id="editor-stage" class="flash-stage"></div>
+                        <canvas id="editor-stage" class="flash-stage"></canvas>
                     </div>
 
                 </div>
@@ -118,16 +358,56 @@
 
         </div>
 
+        <!-- MENÚ CONTEXTUAL SPECTRUM POP-OVER (CLIC DERECHO) -->
+        <sp-popover id="stage-context-menu">
+            <sp-menu>
+                <sp-menu-item id="ctx-cut">Cut <span slot="value">Ctrl+X</span></sp-menu-item>
+                <sp-menu-item id="ctx-copy">Copy <span slot="value">Ctrl+C</span></sp-menu-item>
+                <sp-menu-item id="ctx-paste">Paste <span slot="value">Ctrl+V</span></sp-menu-item>
+                <sp-menu-item id="ctx-delete">Delete <span slot="value">Del</span></sp-menu-item>
+                <sp-menu-divider></sp-menu-divider>
+                <sp-menu-item id="ctx-convert-symbol">
+                    Convert to Symbol...
+                    <span slot="value">F8</span>
+                </sp-menu-item>
+            </sp-menu>
+        </sp-popover>
+
+        <!-- VENTANA FLOTANTE "CREATE NEW SYMBOL" -->
+        <div id="desktop-window-symbol" class="desktop-window" style="display: none;">
+            <div class="window-titlebar" id="window-drag-handle">
+                <span>Create New Symbol</span>
+                <span class="window-close-btn" id="btn-window-close">✕</span>
+            </div>
+            <div class="window-body">
+                <div class="window-row">
+                    <label for="symbol-name">Name:</label>
+                    <sp-textfield id="symbol-name" value="Symbol 1"></sp-textfield>
+                </div>
+                <div class="window-row">
+                    <label for="symbol-type">Type:</label>
+                    <sp-picker id="symbol-type" value="Graphic">
+                        <sp-menu-item value="Movie Clip">Movie Clip</sp-menu-item>
+                        <sp-menu-item value="Button">Button</sp-menu-item>
+                        <sp-menu-item value="Graphic">Graphic</sp-menu-item>
+                    </sp-picker>
+                </div>
+                <div class="window-row-folder">
+                    <span class="folder-label">Folder:</span>
+                    <span class="folder-value">Library root</span>
+                </div>
+                <div class="window-row-advanced">
+                    <span>▶ Advanced</span>
+                </div>
+            </div>
+            <div class="window-footer">
+                <sp-button variant="accent" id="btn-modal-ok">OK</sp-button>
+                <sp-button variant="secondary" id="btn-modal-cancel">Cancel</sp-button>
+            </div>
+        </div>
+
     </sp-theme>
 
-    <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
-          .then(reg => console.log('Service Worker registrado con éxito:', reg.scope))
-          .catch(err => console.error('Error al registrar el Service Worker:', err));
-      });
-    }
-  </script>
 </body>
 </html>
+```[cite: 20]
