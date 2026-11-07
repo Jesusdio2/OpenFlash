@@ -1,0 +1,10 @@
+^C:\THIRD_PARTY\CEF_BINARY_154.0.34+G14C5A08+CHROMIUM-154.0.8037.98_WINDOWS64\LIBCEF_DLL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Usuario/source/repos/OpenFlashCEF -BC:/Users/Usuario/source/repos/OpenFlashCEF/build --check-stamp-file C:/Users/Usuario/source/repos/OpenFlashCEF/build/libcef_dll_wrapper_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

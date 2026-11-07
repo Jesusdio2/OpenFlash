@@ -1,0 +1,1316 @@
+================================================================================
+Linker Errors
+Generated: 2026-10-26T21:53:35.463Z
+Total Errors: 437
+================================================================================
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: bool __cdecl std::ios_base::good(void)const " (?good@ios_base@std@@QEBA_NXZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: int __cdecl std::ios_base::flags(void)const " (?flags@ios_base@std@@QEBAHXZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: __int64 __cdecl std::ios_base::width(void)const " (?width@ios_base@std@@QEBA_JXZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: __int64 __cdecl std::ios_base::width(__int64)" (?width@ios_base@std@@QEAA_J_J@Z) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ) en libcef_dll_wrapper.lib(cef_logging.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPEAV_Facet_base@1@@Z) en msvcprtd.lib(locale0_implib.obj) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ) en msvcprtd.lib(MSVCP140D.dll) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z) en msvcprtd.lib(MSVCP140D.dll) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,char const *)" (?_Locinfo_ctor@_Locinfo@std@@SAXPEAV12@PEBD@Z) en msvcprtd.lib(MSVCP140D.dll) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: static void __cdecl std::_Locinfo::_Locinfo_dtor(class std::_Locinfo *)" (?_Locinfo_dtor@_Locinfo@std@@SAXPEAV12@@Z) en msvcprtd.lib(MSVCP140D.dll) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: __cdecl std::_Lockit::_Lockit(int)" (??0_Lockit@std@@QEAA@H@Z) en msvcprtd.lib(MSVCP140D.dll) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió "public: __cdecl std::_Lockit::~_Lockit(void)" (??1_Lockit@std@@QEAA@XZ) en msvcprtd.lib(MSVCP140D.dll) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2005] (MSVC)
+ya se definió _Getcvt en msvcprtd.lib(MSVCP140D.dll) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2038] (MSVC)
+se detectaron diferencias para 'RuntimeLibrary': el valor 'MTd_StaticDebug' no coincide con el valor 'MDd_DynamicDebug' en main.obj [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK4098] (MSVC)
+la biblioteca predeterminada'LIBCMTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_set sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_utf16_clear sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_utf8_to_utf16 sin resolver al que se hace referencia en la función "public: static bool __cdecl CefStringTraitsUTF16::from_string(char const *,unsigned __int64,struct _cef_string_utf16_t *)" (?from_string@CefStringTraitsUTF16@@SA_NPEBD_KPEAU_cef_string_utf16_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_get_min_log_level sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_get_vlog_level sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_log sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver al que se hace referencia en la función "public: int __cdecl base::AtomicRefCount::Increment(int)" (?Increment@AtomicRefCount@base@@QEAAHH@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_list_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_browser_host_create_browser sin resolver al que se hace referencia en la función "public: static bool __cdecl CefBrowserHost::CreateBrowser(class CefWindowInfo const &,class scoped_refptr<class CefClient>,class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStructBase<struct CefBrowserSettingsTraits> const &,class scoped_refptr<class CefDictionaryValue>,class scoped_refptr<class CefRequestContext>)" (?CreateBrowser@CefBrowserHost@@SA_NAEBVCefWindowInfo@@V?$scoped_refptr@VCefClient@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@AEBV?$CefStructBase@UCefBrowserSettingsTraits@@@@V?$scoped_refptr@VCefDictionaryValue@@@@V?$scoped_refptr@VCefRequestContext@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_browser_host_create_browser_sync sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefBrowser> __cdecl CefBrowserHost::CreateBrowserSync(class CefWindowInfo const &,class scoped_refptr<class CefClient>,class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStructBase<struct CefBrowserSettingsTraits> const &,class scoped_refptr<class CefDictionaryValue>,class scoped_refptr<class CefRequestContext>)" (?CreateBrowserSync@CefBrowserHost@@SA?AV?$scoped_refptr@VCefBrowser@@@@AEBVCefWindowInfo@@V?$scoped_refptr@VCefClient@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@AEBV?$CefStructBase@UCefBrowserSettingsTraits@@@@V?$scoped_refptr@VCefDictionaryValue@@@@V?$scoped_refptr@VCefRequestContext@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_browser_host_get_browser_by_identifier sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefBrowser> __cdecl CefBrowserHost::GetBrowserByIdentifier(int)" (?GetBrowserByIdentifier@CefBrowserHost@@SA?AV?$scoped_refptr@VCefBrowser@@@@H@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_userfree_utf16_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_api_hash sin resolver al que se hace referencia en la función "int __cdecl CefExecuteProcess(class CefMainArgs const &,class scoped_refptr<class CefApp>,void *)" (?CefExecuteProcess@@YAHAEBVCefMainArgs@@V?$scoped_refptr@VCefApp@@@@PEAX@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_api_hash sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_is_cert_status_error sin resolver al que se hace referencia en la función "bool __cdecl CefIsCertStatusError(enum cef_cert_status_t)" (?CefIsCertStatusError@@YA_NW4cef_cert_status_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_currently_on sin resolver al que se hace referencia en la función "bool __cdecl CefCurrentlyOn(enum cef_thread_id_t)" (?CefCurrentlyOn@@YA_NW4cef_thread_id_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_post_task sin resolver al que se hace referencia en la función "bool __cdecl CefPostTask(enum cef_thread_id_t,class scoped_refptr<class CefTask>)" (?CefPostTask@@YA_NW4cef_thread_id_t@@V?$scoped_refptr@VCefTask@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_post_delayed_task sin resolver al que se hace referencia en la función "bool __cdecl CefPostDelayedTask(enum cef_thread_id_t,class scoped_refptr<class CefTask>,__int64)" (?CefPostDelayedTask@@YA_NW4cef_thread_id_t@@V?$scoped_refptr@VCefTask@@@@_J@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_register_scheme_handler_factory sin resolver al que se hace referencia en la función "bool __cdecl CefRegisterSchemeHandlerFactory(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,class scoped_refptr<class CefSchemeHandlerFactory>)" (?CefRegisterSchemeHandlerFactory@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@0V?$scoped_refptr@VCefSchemeHandlerFactory@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_clear_scheme_handler_factories sin resolver al que se hace referencia en la función "bool __cdecl CefClearSchemeHandlerFactories(void)" (?CefClearSchemeHandlerFactories@@YA_NXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_execute_process sin resolver al que se hace referencia en la función "int __cdecl CefExecuteProcess(class CefMainArgs const &,class scoped_refptr<class CefApp>,void *)" (?CefExecuteProcess@@YAHAEBVCefMainArgs@@V?$scoped_refptr@VCefApp@@@@PEAX@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_initialize sin resolver al que se hace referencia en la función "bool __cdecl CefInitialize(class CefMainArgs const &,class CefStructBase<struct CefSettingsTraits> const &,class scoped_refptr<class CefApp>,void *)" (?CefInitialize@@YA_NAEBVCefMainArgs@@AEBV?$CefStructBase@UCefSettingsTraits@@@@V?$scoped_refptr@VCefApp@@@@PEAX@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_get_exit_code sin resolver al que se hace referencia en la función "int __cdecl CefGetExitCode(void)" (?CefGetExitCode@@YAHXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_shutdown sin resolver al que se hace referencia en la función "void __cdecl CefShutdown(void)" (?CefShutdown@@YAXXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_do_message_loop_work sin resolver al que se hace referencia en la función "void __cdecl CefDoMessageLoopWork(void)" (?CefDoMessageLoopWork@@YAXXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_run_message_loop sin resolver al que se hace referencia en la función "void __cdecl CefRunMessageLoop(void)" (?CefRunMessageLoop@@YAXXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_quit_message_loop sin resolver al que se hace referencia en la función "void __cdecl CefQuitMessageLoop(void)" (?CefQuitMessageLoop@@YAXXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_set_nestable_tasks_allowed sin resolver al que se hace referencia en la función "void __cdecl CefSetNestableTasksAllowed(bool)" (?CefSetNestableTasksAllowed@@YAX_N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_crash_reporting_enabled sin resolver al que se hace referencia en la función "bool __cdecl CefCrashReportingEnabled(void)" (?CefCrashReportingEnabled@@YA_NXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_set_crash_key_value sin resolver al que se hace referencia en la función "void __cdecl CefSetCrashKeyValue(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefSetCrashKeyValue@@YAXAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@0@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_create_directory sin resolver al que se hace referencia en la función "bool __cdecl CefCreateDirectory(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefCreateDirectory@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_get_temp_directory sin resolver al que se hace referencia en la función "bool __cdecl CefGetTempDirectory(class CefStringBase<struct CefStringTraitsUTF16> &)" (?CefGetTempDirectory@@YA_NAEAV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_create_new_temp_directory sin resolver al que se hace referencia en la función "bool __cdecl CefCreateNewTempDirectory(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> &)" (?CefCreateNewTempDirectory@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@AEAV1@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_create_temp_directory_in_directory sin resolver al que se hace referencia en la función "bool __cdecl CefCreateTempDirectoryInDirectory(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> &)" (?CefCreateTempDirectoryInDirectory@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@0AEAV1@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_directory_exists sin resolver al que se hace referencia en la función "bool __cdecl CefDirectoryExists(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefDirectoryExists@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_delete_file sin resolver al que se hace referencia en la función "bool __cdecl CefDeleteFile(class CefStringBase<struct CefStringTraitsUTF16> const &,bool)" (?CefDeleteFile@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@_N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_zip_directory sin resolver al que se hace referencia en la función "bool __cdecl CefZipDirectory(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,bool)" (?CefZipDirectory@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@0_N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_load_crlsets_file sin resolver al que se hace referencia en la función "void __cdecl CefLoadCRLSetsFile(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefLoadCRLSetsFile@@YAXAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_is_rtl sin resolver al que se hace referencia en la función "bool __cdecl CefIsRTL(void)" (?CefIsRTL@@YA_NXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_add_cross_origin_whitelist_entry sin resolver al que se hace referencia en la función "bool __cdecl CefAddCrossOriginWhitelistEntry(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,bool)" (?CefAddCrossOriginWhitelistEntry@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@00_N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_remove_cross_origin_whitelist_entry sin resolver al que se hace referencia en la función "bool __cdecl CefRemoveCrossOriginWhitelistEntry(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,bool)" (?CefRemoveCrossOriginWhitelistEntry@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@00_N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_clear_cross_origin_whitelist sin resolver al que se hace referencia en la función "bool __cdecl CefClearCrossOriginWhitelist(void)" (?CefClearCrossOriginWhitelist@@YA_NXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_resolve_url sin resolver al que se hace referencia en la función "bool __cdecl CefResolveURL(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStringBase<struct CefStringTraitsUTF16> &)" (?CefResolveURL@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@0AEAV1@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_parse_url sin resolver al que se hace referencia en la función "bool __cdecl CefParseURL(class CefStringBase<struct CefStringTraitsUTF16> const &,class CefStructBase<struct CefURLPartsTraits> &)" (?CefParseURL@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@AEAV?$CefStructBase@UCefURLPartsTraits@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_create_url sin resolver al que se hace referencia en la función "bool __cdecl CefCreateURL(class CefStructBase<struct CefURLPartsTraits> const &,class CefStringBase<struct CefStringTraitsUTF16> &)" (?CefCreateURL@@YA_NAEBV?$CefStructBase@UCefURLPartsTraits@@@@AEAV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_format_url_for_security_display sin resolver al que se hace referencia en la función "class CefStringBase<struct CefStringTraitsUTF16> __cdecl CefFormatUrlForSecurityDisplay(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefFormatUrlForSecurityDisplay@@YA?AV?$CefStringBase@UCefStringTraitsUTF16@@@@AEBV1@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_get_mime_type sin resolver al que se hace referencia en la función "class CefStringBase<struct CefStringTraitsUTF16> __cdecl CefGetMimeType(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefGetMimeType@@YA?AV?$CefStringBase@UCefStringTraitsUTF16@@@@AEBV1@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_get_extensions_for_mime_type sin resolver al que se hace referencia en la función "void __cdecl CefGetExtensionsForMimeType(class CefStringBase<struct CefStringTraitsUTF16> const &,class std::vector<class CefStringBase<struct CefStringTraitsUTF16>,class std::allocator<class CefStringBase<struct CefStringTraitsUTF16> > > &)" (?CefGetExtensionsForMimeType@@YAXAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@AEAV?$vector@V?$CefStringBase@UCefStringTraitsUTF16@@@@V?$allocator@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_base64_encode sin resolver al que se hace referencia en la función "class CefStringBase<struct CefStringTraitsUTF16> __cdecl CefBase64Encode(void const *,unsigned __int64)" (?CefBase64Encode@@YA?AV?$CefStringBase@UCefStringTraitsUTF16@@@@PEBX_K@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_base64_decode sin resolver al que se hace referencia en la función "class scoped_refptr<class CefBinaryValue> __cdecl CefBase64Decode(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefBase64Decode@@YA?AV?$scoped_refptr@VCefBinaryValue@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_uriencode sin resolver al que se hace referencia en la función "class CefStringBase<struct CefStringTraitsUTF16> __cdecl CefURIEncode(class CefStringBase<struct CefStringTraitsUTF16> const &,bool)" (?CefURIEncode@@YA?AV?$CefStringBase@UCefStringTraitsUTF16@@@@AEBV1@_N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_uridecode sin resolver al que se hace referencia en la función "class CefStringBase<struct CefStringTraitsUTF16> __cdecl CefURIDecode(class CefStringBase<struct CefStringTraitsUTF16> const &,bool,enum cef_uri_unescape_rule_t)" (?CefURIDecode@@YA?AV?$CefStringBase@UCefStringTraitsUTF16@@@@AEBV1@_NW4cef_uri_unescape_rule_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_parse_json sin resolver al que se hace referencia en la función "class scoped_refptr<class CefValue> __cdecl CefParseJSON(class CefStringBase<struct CefStringTraitsUTF16> const &,enum cef_json_parser_options_t)" (?CefParseJSON@@YA?AV?$scoped_refptr@VCefValue@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@W4cef_json_parser_options_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_parse_json_buffer sin resolver al que se hace referencia en la función "class scoped_refptr<class CefValue> __cdecl CefParseJSON(void const *,unsigned __int64,enum cef_json_parser_options_t)" (?CefParseJSON@@YA?AV?$scoped_refptr@VCefValue@@@@PEBX_KW4cef_json_parser_options_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_parse_jsonand_return_error sin resolver al que se hace referencia en la función "class scoped_refptr<class CefValue> __cdecl CefParseJSONAndReturnError(class CefStringBase<struct CefStringTraitsUTF16> const &,enum cef_json_parser_options_t,class CefStringBase<struct CefStringTraitsUTF16> &)" (?CefParseJSONAndReturnError@@YA?AV?$scoped_refptr@VCefValue@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@W4cef_json_parser_options_t@@AEAV2@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_write_json sin resolver al que se hace referencia en la función "class CefStringBase<struct CefStringTraitsUTF16> __cdecl CefWriteJSON(class scoped_refptr<class CefValue>,enum cef_json_writer_options_t)" (?CefWriteJSON@@YA?AV?$CefStringBase@UCefStringTraitsUTF16@@@@V?$scoped_refptr@VCefValue@@@@W4cef_json_writer_options_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_get_path sin resolver al que se hace referencia en la función "bool __cdecl CefGetPath(enum cef_path_key_t,class CefStringBase<struct CefStringTraitsUTF16> &)" (?CefGetPath@@YA_NW4cef_path_key_t@@AEAV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_launch_process sin resolver al que se hace referencia en la función "bool __cdecl CefLaunchProcess(class scoped_refptr<class CefCommandLine>)" (?CefLaunchProcess@@YA_NV?$scoped_refptr@VCefCommandLine@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_begin_tracing sin resolver al que se hace referencia en la función "bool __cdecl CefBeginTracing(class CefStringBase<struct CefStringTraitsUTF16> const &,class scoped_refptr<class CefCompletionCallback>)" (?CefBeginTracing@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@V?$scoped_refptr@VCefCompletionCallback@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_end_tracing sin resolver al que se hace referencia en la función "bool __cdecl CefEndTracing(class CefStringBase<struct CefStringTraitsUTF16> const &,class scoped_refptr<class CefEndTracingCallback>)" (?CefEndTracing@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@V?$scoped_refptr@VCefEndTracingCallback@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_now_from_system_trace_time sin resolver al que se hace referencia en la función "__int64 __cdecl CefNowFromSystemTraceTime(void)" (?CefNowFromSystemTraceTime@@YA_JXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_execute_java_script_with_user_gesture_for_tests sin resolver al que se hace referencia en la función "void __cdecl CefExecuteJavaScriptWithUserGestureForTests(class scoped_refptr<class CefFrame>,class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefExecuteJavaScriptWithUserGestureForTests@@YAXV?$scoped_refptr@VCefFrame@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_set_data_directory_for_tests sin resolver al que se hace referencia en la función "void __cdecl CefSetDataDirectoryForTests(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefSetDataDirectoryForTests@@YAXAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_is_feature_enabled_for_tests sin resolver al que se hace referencia en la función "bool __cdecl CefIsFeatureEnabledForTests(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CefIsFeatureEnabledForTests@@YA_NAEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_dictionary_value_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefDictionaryValue> __cdecl CefDictionaryValue::Create(void)" (?Create@CefDictionaryValue@@SA?AV?$scoped_refptr@VCefDictionaryValue@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_drag_data_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefDragData> __cdecl CefDragData::Create(void)" (?Create@CefDragData@@SA?AV?$scoped_refptr@VCefDragData@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_request_context_get_global_context sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefRequestContext> __cdecl CefRequestContext::GetGlobalContext(void)" (?GetGlobalContext@CefRequestContext@@SA?AV?$scoped_refptr@VCefRequestContext@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_request_context_create_context sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefRequestContext> __cdecl CefRequestContext::CreateContext(class CefStructBase<struct CefRequestContextSettingsTraits> const &,class scoped_refptr<class CefRequestContextHandler>)" (?CreateContext@CefRequestContext@@SA?AV?$scoped_refptr@VCefRequestContext@@@@AEBV?$CefStructBase@UCefRequestContextSettingsTraits@@@@V?$scoped_refptr@VCefRequestContextHandler@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_request_context_cef_create_context_shared sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefRequestContext> __cdecl CefRequestContext::CreateContext(class scoped_refptr<class CefRequestContext>,class scoped_refptr<class CefRequestContextHandler>)" (?CreateContext@CefRequestContext@@SA?AV?$scoped_refptr@VCefRequestContext@@@@V2@V?$scoped_refptr@VCefRequestContextHandler@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_utf16_cmp sin resolver al que se hace referencia en la función "public: static int __cdecl CefStringTraitsUTF16::compare(struct _cef_string_utf16_t const *,struct _cef_string_utf16_t const *)" (?compare@CefStringTraitsUTF16@@SAHPEBU_cef_string_utf16_t@@0@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_list_size sin resolver al que se hace referencia en la función "void __cdecl transfer_string_list_contents(struct _cef_string_list_t *,class std::vector<class CefStringBase<struct CefStringTraitsUTF16>,class std::allocator<class CefStringBase<struct CefStringTraitsUTF16> > > &)" (?transfer_string_list_contents@@YAXPEAU_cef_string_list_t@@AEAV?$vector@V?$CefStringBase@UCefStringTraitsUTF16@@@@V?$allocator@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_list_value sin resolver al que se hace referencia en la función "void __cdecl transfer_string_list_contents(struct _cef_string_list_t *,class std::vector<class CefStringBase<struct CefStringTraitsUTF16>,class std::allocator<class CefStringBase<struct CefStringTraitsUTF16> > > &)" (?transfer_string_list_contents@@YAXPEAU_cef_string_list_t@@AEAV?$vector@V?$CefStringBase@UCefStringTraitsUTF16@@@@V?$allocator@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_list_append sin resolver al que se hace referencia en la función "void __cdecl transfer_string_list_contents(class std::vector<class CefStringBase<struct CefStringTraitsUTF16>,class std::allocator<class CefStringBase<struct CefStringTraitsUTF16> > > const &,struct _cef_string_list_t *)" (?transfer_string_list_contents@@YAXAEBV?$vector@V?$CefStringBase@UCefStringTraitsUTF16@@@@V?$allocator@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@@std@@PEAU_cef_string_list_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_map_size sin resolver al que se hace referencia en la función "void __cdecl transfer_string_map_contents(struct _cef_string_map_t *,class std::map<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?transfer_string_map_contents@@YAXPEAU_cef_string_map_t@@AEAV?$map@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_map_key sin resolver al que se hace referencia en la función "void __cdecl transfer_string_map_contents(struct _cef_string_map_t *,class std::map<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?transfer_string_map_contents@@YAXPEAU_cef_string_map_t@@AEAV?$map@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_map_value sin resolver al que se hace referencia en la función "void __cdecl transfer_string_map_contents(struct _cef_string_map_t *,class std::map<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?transfer_string_map_contents@@YAXPEAU_cef_string_map_t@@AEAV?$map@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_map_append sin resolver al que se hace referencia en la función "void __cdecl transfer_string_map_contents(class std::map<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > const &,struct _cef_string_map_t *)" (?transfer_string_map_contents@@YAXAEBV?$map@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@PEAU_cef_string_map_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_multimap_size sin resolver al que se hace referencia en la función "void __cdecl transfer_string_multimap_contents(struct _cef_string_multimap_t *,class std::multimap<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?transfer_string_multimap_contents@@YAXPEAU_cef_string_multimap_t@@AEAV?$multimap@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_multimap_key sin resolver al que se hace referencia en la función "void __cdecl transfer_string_multimap_contents(struct _cef_string_multimap_t *,class std::multimap<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?transfer_string_multimap_contents@@YAXPEAU_cef_string_multimap_t@@AEAV?$multimap@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_multimap_value sin resolver al que se hace referencia en la función "void __cdecl transfer_string_multimap_contents(struct _cef_string_multimap_t *,class std::multimap<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?transfer_string_multimap_contents@@YAXPEAU_cef_string_multimap_t@@AEAV?$multimap@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_multimap_append sin resolver al que se hace referencia en la función "void __cdecl transfer_string_multimap_contents(class std::multimap<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > const &,struct _cef_string_multimap_t *)" (?transfer_string_multimap_contents@@YAXAEBV?$multimap@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@PEAU_cef_string_multimap_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_binary_value_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefBinaryValue> __cdecl CefBinaryValue::Create(void const *,unsigned __int64)" (?Create@CefBinaryValue@@SA?AV?$scoped_refptr@VCefBinaryValue@@@@PEBX_K@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_map_alloc sin resolver al que se hace referencia en la función "public: virtual void __cdecl CefCommandLineCToCpp::GetSwitches(class std::map<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?GetSwitches@CefCommandLineCToCpp@@UEAAXAEAV?$map@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_map_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_map_free sin resolver al que se hace referencia en la función "public: virtual void __cdecl CefCommandLineCToCpp::GetSwitches(class std::map<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?GetSwitches@CefCommandLineCToCpp@@UEAAXAEAV?$map@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_map_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_command_line_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefCommandLine> __cdecl CefCommandLine::CreateCommandLine(void)" (?CreateCommandLine@CefCommandLine@@SA?AV?$scoped_refptr@VCefCommandLine@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_command_line_get_global sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefCommandLine> __cdecl CefCommandLine::GetGlobalCommandLine(void)" (?GetGlobalCommandLine@CefCommandLine@@SA?AV?$scoped_refptr@VCefCommandLine@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_value_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefValue> __cdecl CefValue::Create(void)" (?Create@CefValue@@SA?AV?$scoped_refptr@VCefValue@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_process_message_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefProcessMessage> __cdecl CefProcessMessage::Create(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?Create@CefProcessMessage@@SA?AV?$scoped_refptr@VCefProcessMessage@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_image_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefImage> __cdecl CefImage::CreateImage(void)" (?CreateImage@CefImage@@SA?AV?$scoped_refptr@VCefImage@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_list_value_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefListValue> __cdecl CefListValue::Create(void)" (?Create@CefListValue@@SA?AV?$scoped_refptr@VCefListValue@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_stream_writer_create_for_file sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefStreamWriter> __cdecl CefStreamWriter::CreateForFile(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CreateForFile@CefStreamWriter@@SA?AV?$scoped_refptr@VCefStreamWriter@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_stream_writer_create_for_handler sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefStreamWriter> __cdecl CefStreamWriter::CreateForHandler(class scoped_refptr<class CefWriteHandler>)" (?CreateForHandler@CefStreamWriter@@SA?AV?$scoped_refptr@VCefStreamWriter@@@@V?$scoped_refptr@VCefWriteHandler@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_cookie_manager_get_global_manager sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefCookieManager> __cdecl CefCookieManager::GetGlobalManager(class scoped_refptr<class CefCompletionCallback>)" (?GetGlobalManager@CefCookieManager@@SA?AV?$scoped_refptr@VCefCookieManager@@@@V?$scoped_refptr@VCefCompletionCallback@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_media_router_get_global sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefMediaRouter> __cdecl CefMediaRouter::GetGlobalMediaRouter(class scoped_refptr<class CefCompletionCallback>)" (?GetGlobalMediaRouter@CefMediaRouter@@SA?AV?$scoped_refptr@VCefMediaRouter@@@@V?$scoped_refptr@VCefCompletionCallback@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_multimap_alloc sin resolver al que se hace referencia en la función "public: virtual void __cdecl CefRequestCToCpp::GetHeaderMap(class std::multimap<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?GetHeaderMap@CefRequestCToCpp@@UEAAXAEAV?$multimap@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_multimap_alloc sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_string_multimap_free sin resolver al que se hace referencia en la función "public: virtual void __cdecl CefRequestCToCpp::GetHeaderMap(class std::multimap<class CefStringBase<struct CefStringTraitsUTF16>,class CefStringBase<struct CefStringTraitsUTF16>,struct std::less<class CefStringBase<struct CefStringTraitsUTF16> >,class std::allocator<struct std::pair<class CefStringBase<struct CefStringTraitsUTF16> const ,class CefStringBase<struct CefStringTraitsUTF16> > > > &)" (?GetHeaderMap@CefRequestCToCpp@@UEAAXAEAV?$multimap@V?$CefStringBase@UCefStringTraitsUTF16@@@@V1@U?$less@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@V?$allocator@U?$pair@$$CBV?$CefStringBase@UCefStringTraitsUTF16@@@@V1@@std@@@3@@std@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2001] (MSVC)
+símbolo externo cef_string_multimap_free sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_request_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefRequest> __cdecl CefRequest::Create(void)" (?Create@CefRequest@@SA?AV?$scoped_refptr@VCefRequest@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_urlrequest_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefURLRequest> __cdecl CefURLRequest::Create(class scoped_refptr<class CefRequest>,class scoped_refptr<class CefURLRequestClient>,class scoped_refptr<class CefRequestContext>)" (?Create@CefURLRequest@@SA?AV?$scoped_refptr@VCefURLRequest@@@@V?$scoped_refptr@VCefRequest@@@@V?$scoped_refptr@VCefURLRequestClient@@@@V?$scoped_refptr@VCefRequestContext@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_context_get_current_context sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Context> __cdecl CefV8Context::GetCurrentContext(void)" (?GetCurrentContext@CefV8Context@@SA?AV?$scoped_refptr@VCefV8Context@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_context_get_entered_context sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Context> __cdecl CefV8Context::GetEnteredContext(void)" (?GetEnteredContext@CefV8Context@@SA?AV?$scoped_refptr@VCefV8Context@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_context_in_context sin resolver al que se hace referencia en la función "public: static bool __cdecl CefV8Context::InContext(void)" (?InContext@CefV8Context@@SA_NXZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_menu_model_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefMenuModel> __cdecl CefMenuModel::CreateMenuModel(class scoped_refptr<class CefMenuModelDelegate>)" (?CreateMenuModel@CefMenuModel@@SA?AV?$scoped_refptr@VCefMenuModel@@@@V?$scoped_refptr@VCefMenuModelDelegate@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_print_settings_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefPrintSettings> __cdecl CefPrintSettings::Create(void)" (?Create@CefPrintSettings@@SA?AV?$scoped_refptr@VCefPrintSettings@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_stack_trace_get_current sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8StackTrace> __cdecl CefV8StackTrace::GetCurrent(int)" (?GetCurrent@CefV8StackTrace@@SA?AV?$scoped_refptr@VCefV8StackTrace@@@@H@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_response_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefResponse> __cdecl CefResponse::Create(void)" (?Create@CefResponse@@SA?AV?$scoped_refptr@VCefResponse@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_post_data_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefPostData> __cdecl CefPostData::Create(void)" (?Create@CefPostData@@SA?AV?$scoped_refptr@VCefPostData@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_task_runner_get_for_current_thread sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefTaskRunner> __cdecl CefTaskRunner::GetForCurrentThread(void)" (?GetForCurrentThread@CefTaskRunner@@SA?AV?$scoped_refptr@VCefTaskRunner@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_task_runner_get_for_thread sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefTaskRunner> __cdecl CefTaskRunner::GetForThread(enum cef_thread_id_t)" (?GetForThread@CefTaskRunner@@SA?AV?$scoped_refptr@VCefTaskRunner@@@@W4cef_thread_id_t@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_undefined sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateUndefined(void)" (?CreateUndefined@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_null sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateNull(void)" (?CreateNull@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_bool sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateBool(bool)" (?CreateBool@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@_N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_int sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateInt(int)" (?CreateInt@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@H@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_uint sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateUInt(unsigned int)" (?CreateUInt@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@I@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_double sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateDouble(double)" (?CreateDouble@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@N@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_date sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateDate(class CefBaseTime)" (?CreateDate@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@VCefBaseTime@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_string sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateString(class CefStringBase<struct CefStringTraitsUTF16> const &)" (?CreateString@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_object sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateObject(class scoped_refptr<class CefV8Accessor>,class scoped_refptr<class CefV8Interceptor>)" (?CreateObject@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@V?$scoped_refptr@VCefV8Accessor@@@@V?$scoped_refptr@VCefV8Interceptor@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_array sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateArray(int)" (?CreateArray@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@H@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_array_buffer sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateArrayBuffer(void *,unsigned __int64,class scoped_refptr<class CefV8ArrayBufferReleaseCallback>)" (?CreateArrayBuffer@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@PEAX_KV?$scoped_refptr@VCefV8ArrayBufferReleaseCallback@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_array_buffer_with_copy sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateArrayBufferWithCopy(void *,unsigned __int64)" (?CreateArrayBufferWithCopy@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@PEAX_K@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_array_buffer_from_backing_store sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateArrayBufferFromBackingStore(class scoped_refptr<class CefV8BackingStore>)" (?CreateArrayBufferFromBackingStore@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@V?$scoped_refptr@VCefV8BackingStore@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_function sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreateFunction(class CefStringBase<struct CefStringTraitsUTF16> const &,class scoped_refptr<class CefV8Handler>)" (?CreateFunction@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@AEBV?$CefStringBase@UCefStringTraitsUTF16@@@@V?$scoped_refptr@VCefV8Handler@@@@@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_value_create_promise sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8Value> __cdecl CefV8Value::CreatePromise(void)" (?CreatePromise@CefV8Value@@SA?AV?$scoped_refptr@VCefV8Value@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_post_data_element_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefPostDataElement> __cdecl CefPostDataElement::Create(void)" (?Create@CefPostDataElement@@SA?AV?$scoped_refptr@VCefPostDataElement@@@@XZ) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK2019] (MSVC)
+símbolo externo cef_v8_backing_store_create sin resolver al que se hace referencia en la función "public: static class scoped_refptr<class CefV8BackingStore> __cdecl CefV8BackingStore::Create(unsigned __int64)" (?Create@CefV8BackingStore@@SA?AV?$scoped_refptr@VCefV8BackingStore@@@@_K@Z) [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]
+
+[LNK1120] (MSVC)
+124 externos sin resolver [C:\Users\Usuario\source\repos\OpenFlashCEF\build\OpenFlash.vcxproj]

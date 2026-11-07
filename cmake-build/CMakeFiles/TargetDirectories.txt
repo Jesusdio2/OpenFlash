@@ -1,0 +1,4 @@
+C:/Users/Usuario/source/repos/OpenFlashCEF/cmake-build/CMakeFiles/OpenFlash.dir
+C:/Users/Usuario/source/repos/OpenFlashCEF/cmake-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Usuario/source/repos/OpenFlashCEF/cmake-build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Usuario/source/repos/OpenFlashCEF/cmake-build/libcef_dll_wrapper_build/CMakeFiles/libcef_dll_wrapper.dir

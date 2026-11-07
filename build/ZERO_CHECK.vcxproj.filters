@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Usuario\source\repos\OpenFlashCEF\build\CMakeFiles\c5e67f94d001086dcee337880f6d280f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{195F4C6F-B7D0-3BD4-A9BF-691750E04DED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

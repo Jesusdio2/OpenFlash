@@ -1,0 +1,43 @@
+[22648:18856:1101/194002.641:WARNING:chrome\browser\signin\account_consistency_mode_manager.cc:74] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22648:18856:1101/194008.585:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/194008.769:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[14240:15928:1101/194008.853:FATAL:ui\gl\child_window_win.cc:117] NOTREACHED hit. 
+[22648:18856:1101/194009.205:ERROR:content\browser\gpu\gpu_process_host.cc:1130] GPU process exited unexpectedly: exit_code=-2147483645
+[22648:18856:1101/194009.205:WARNING:content\browser\gpu\gpu_process_host.cc:1588] The GPU process has crashed 1 time(s)
+[22648:18856:1101/194010.066:WARNING:content\browser\gpu\gpu_process_host.cc:1152] Reinitialized the GPU process after a crash. The reported initialization time was 115 ms
+[23700:1608:1101/194010.094:FATAL:ui\gl\child_window_win.cc:117] NOTREACHED hit. 
+[22648:18856:1101/194014.146:ERROR:content\browser\gpu\gpu_process_host.cc:1130] GPU process exited unexpectedly: exit_code=-2147483645
+[22648:18856:1101/194014.146:WARNING:content\browser\gpu\gpu_process_host.cc:1588] The GPU process has crashed 2 time(s)
+[22648:18856:1101/194014.181:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/194014.248:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[22648:18856:1101/194014.668:WARNING:content\browser\gpu\gpu_process_host.cc:1152] Reinitialized the GPU process after a crash. The reported initialization time was 94 ms
+[22864:15808:1101/194014.686:FATAL:ui\gl\child_window_win.cc:117] NOTREACHED hit. 
+[22648:18856:1101/194021.116:ERROR:content\browser\gpu\gpu_process_host.cc:1130] GPU process exited unexpectedly: exit_code=-2147483645
+[22648:18856:1101/194021.116:WARNING:content\browser\gpu\gpu_process_host.cc:1588] The GPU process has crashed 3 time(s)
+[22648:18856:1101/194021.193:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/194021.198:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[7836:15580:1101/194021.364:ERROR:gpu\ipc\service\gpu_channel_manager.cc:956] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[22648:18856:1101/194021.663:WARNING:content\browser\gpu\gpu_process_host.cc:1152] Reinitialized the GPU process after a crash. The reported initialization time was 0 ms
+[22648:18856:1101/194023.332:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/194604.176:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/194604.387:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[22648:18856:1101/202501.552:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/202501.827:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[22648:18856:1101/203749.858:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/205420.576:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/205420.739:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[22648:18856:1101/205425.213:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/205427.601:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/205427.604:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:158] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[22648:18856:1101/213142.754:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/213147.213:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/220323.626:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/224258.981:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/224303.397:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/234140.625:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.
+[22648:18856:1101/234141.696:ERROR:components\device_event_log\device_event_log_impl.cc:211] [23:09:06.815] USB: usb_service_win.cc:236 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+[22648:18856:1101/234141.957:ERROR:services\device\usb\usb_descriptors.cc:165] Device descriptor parsing error.
+[22648:18856:1101/234141.958:ERROR:components\device_event_log\device_event_log_impl.cc:211] [23:41:41.958] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_c0f4&pid_04e0#5&3d7d86e&0&1#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[7836:15580:1101/234141.960:ERROR:ui\gl\direct_composition_support.cc:527] QueryVideoProcessorCustomExtForHDR: Failed to retrieve D3D11 device
+[7836:15580:1101/234142.020:ERROR:ui\gl\direct_composition_support.cc:527] QueryVideoProcessorCustomExtForHDR: Failed to retrieve D3D11 device
+[22648:18856:1101/234148.515:ERROR:content\browser\network_service_instance_impl.cc:653] Network service crashed or was terminated, restarting service.

@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "libcef_dll_wrapper_build",
+		"source" : "C:/third_party/cef_binary_154.0.34+g14c5a08+chromium-154.0.8037.98_windows64/libcef_dll"
+	}
+}

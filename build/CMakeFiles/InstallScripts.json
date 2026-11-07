@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Usuario/source/repos/OpenFlashCEF/build/cmake_install.cmake",
+		"C:/Users/Usuario/source/repos/OpenFlashCEF/build/libcef_dll_wrapper_build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
